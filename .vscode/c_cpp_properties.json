@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/kinetic/include/**",
+        "/home/leo/zed2_datasets_ws/src/zed2_chatter/include/**",
+        "/home/leo/zed2_datasets_ws/src/zed2_datasets/include/**",
+        "/home/leo/listener_ws/src/zed_listener/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
